@@ -1,0 +1,12 @@
+{
+  "name": "spellchecker",
+  "version": "1.0.1",
+  "homepage": "http://www.onlyoffice.com",
+  "private": true,
+  "dependencies": {
+	"express"	: "^4.14.0",
+	"sockjs"	: "^0.3.17",
+	"nodehun"	: "^2.0.10",
+	"config"	: "^1.21.0"
+    }
+}

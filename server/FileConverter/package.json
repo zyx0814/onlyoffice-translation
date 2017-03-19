@@ -1,0 +1,10 @@
+{
+  "name": "fileconverter",
+  "version": "1.0.1",
+  "homepage": "http://www.onlyoffice.com",
+  "private": true,
+  "dependencies": {
+    "co": "^4.6.0",
+    "config": "^1.21.0"
+  }
+}

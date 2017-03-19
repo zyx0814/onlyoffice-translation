@@ -1,0 +1,9 @@
+{
+  "name": "windows-service",
+  "version": "1.0.1",
+  "homepage": "http://www.onlyoffice.com",
+  "private": true,
+  "dependencies": {
+    "winser": "^1.0.2"
+  }
+}
